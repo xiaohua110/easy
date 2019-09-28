@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 咿呀咿呀呦y'y
 
 You can use the [editor on GitHub](https://github.com/xiaohua110/easy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
